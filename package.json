@@ -1,0 +1,23 @@
+{
+  "name": "Base-N",
+  "version": "0.0.3",
+  "description": "Base-n converter, base-n <> decimal, increment & decrement",
+  "main": "base_n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Rob-pw/Base-n/"
+  },
+  "keywords": [
+    "Base-n",
+    "increment",
+    "decrement",
+    "converter",
+    "decimal",
+    "base-x"
+  ],
+  "author": "Rob PW",
+  "license": "ISC"
+}
