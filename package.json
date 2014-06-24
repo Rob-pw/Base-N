@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/Rob-pw/Base-n/"
+    "url": "http://github.com/Rob-pw/Base-N/"
   },
   "keywords": [
     "Base-n",
@@ -18,6 +18,11 @@
     "decimal",
     "base-x"
   ],
-  "author": "Rob PW",
+  "author" : {
+    "name" : "Rob PW",
+    "email" : "me@rob.pw",
+    "url" : "https://rob.pw"
+  },
+  "private" : "false",
   "license": "ISC"
 }
